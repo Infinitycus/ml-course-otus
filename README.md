@@ -4,4 +4,6 @@
 
 2. [Где дешевле жить? Предсказание цен в Airbnb - учимся генерировать признаки и интерпретировать результаты модели](https://github.com/Infinitycus/ml-course-otus/blob/master/2%20Linear%20Regression/Linear_Regression.ipynb)
 
-3. [Чем лучше бустить? Тестируем алгоритмы бустинга в бою.](https://github.com/Infinitycus/ml-course-otus/blob/master/3%20Gradient%20Boosting/Gradient_Boosting.ipynb)
+3. [Чем лучше бустить? Тестируем алгоритмы бустинга в бою](https://github.com/Infinitycus/ml-course-otus/blob/master/3%20Gradient%20Boosting/Gradient_Boosting.ipynb)
+
+4. [Как узнать свою аудиторию? Построение различных вариантов кластеризаций и интерпретация результатов](https://github.com/Infinitycus/ml-course-otus/blob/master/4%20Clustering/Clustering.ipynb)
