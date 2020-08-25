@@ -7,3 +7,5 @@
 3. [Чем лучше бустить? Тестируем алгоритмы бустинга в бою](https://github.com/Infinitycus/ml-course-otus/blob/master/3%20Gradient%20Boosting/Gradient_Boosting.ipynb)
 
 4. [Как узнать свою аудиторию? Построение различных вариантов кластеризаций и интерпретация результатов](https://github.com/Infinitycus/ml-course-otus/blob/master/4%20Clustering/Clustering.ipynb)
+
+5. [Как найти стог сена в иголке? Практический проект по построению системы поиска аномалий](https://github.com/Infinitycus/ml-course-otus/blob/master/5%20Anomaly%20Detection/Anomaly_Detection.ipynb)
