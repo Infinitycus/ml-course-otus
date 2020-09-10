@@ -9,3 +9,5 @@
 4. [Как узнать свою аудиторию? Построение различных вариантов кластеризаций и интерпретация результатов](https://github.com/Infinitycus/ml-course-otus/blob/master/4%20Clustering/Clustering.ipynb)
 
 5. [Как найти стог сена в иголке? Практический проект по построению системы поиска аномалий](https://github.com/Infinitycus/ml-course-otus/blob/master/5%20Anomaly%20Detection/Anomaly_Detection.ipynb)
+
+6. [Откуда берутся датасеты? Практический проект по сбору данных и работе с текстами](https://github.com/Infinitycus/ml-course-otus/blob/master/6%20NLP/NLP.ipynb)
