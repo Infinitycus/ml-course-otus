@@ -11,3 +11,5 @@
 5. [Как найти стог сена в иголке? Практический проект по построению системы поиска аномалий](https://github.com/Infinitycus/ml-course-otus/blob/master/5%20Anomaly%20Detection/Anomaly_Detection.ipynb)
 
 6. [Откуда берутся датасеты? Практический проект по сбору данных и работе с текстами](https://github.com/Infinitycus/ml-course-otus/blob/master/6%20NLP/NLP.ipynb)
+
+7. [Памперсы или пиво? Практический проект по созданию рекомендательной системы](https://github.com/Infinitycus/ml-course-otus/blob/master/7%20Recommendation%20System/Recommendation_System.ipynb)
